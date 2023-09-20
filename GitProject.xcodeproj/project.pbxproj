@@ -11,6 +11,7 @@
 		2E4D9D2C2ABB964700554F7B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4D9D2B2ABB964700554F7B /* ContentView.swift */; };
 		2E4D9D2E2ABB964A00554F7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E4D9D2D2ABB964A00554F7B /* Assets.xcassets */; };
 		2E4D9D312ABB964A00554F7B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E4D9D302ABB964A00554F7B /* Preview Assets.xcassets */; };
+		2E4D9D382ABB99A500554F7B /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4D9D372ABB99A500554F7B /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2E4D9D2B2ABB964700554F7B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2E4D9D2D2ABB964A00554F7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E4D9D302ABB964A00554F7B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2E4D9D372ABB99A500554F7B /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				2E4D9D2B2ABB964700554F7B /* ContentView.swift */,
 				2E4D9D2D2ABB964A00554F7B /* Assets.xcassets */,
 				2E4D9D2F2ABB964A00554F7B /* Preview Content */,
+				2E4D9D372ABB99A500554F7B /* ModalView.swift */,
 			);
 			path = GitProject;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E4D9D382ABB99A500554F7B /* ModalView.swift in Sources */,
 				2E4D9D2C2ABB964700554F7B /* ContentView.swift in Sources */,
 				2E4D9D2A2ABB964700554F7B /* GitProjectApp.swift in Sources */,
 			);
